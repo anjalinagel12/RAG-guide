@@ -1,5 +1,10 @@
 # 12 RAG Pain Points and Mitigation Strategies
 
+**Objective**
+To highlight the 12 key RAG system challenges and offer actionable solutions for improved performance and reliability.
+
+**Reference**
+
 <img width="2048" height="1185" alt="image" src="https://github.com/user-attachments/assets/0326bf94-806d-4a47-ba29-343429a35cd6" />
 
 
