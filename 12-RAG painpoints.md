@@ -1,5 +1,8 @@
 # 12 RAG Pain Points and Mitigation Strategies
 
+<img width="2048" height="1185" alt="image" src="https://github.com/user-attachments/assets/0326bf94-806d-4a47-ba29-343429a35cd6" />
+
+
 | # | Pain Point | What that means / why it happens | Possible Solutions / Mitigations |
 |---|---|---|---|
 | **1.** | **Missing Content** | The information you need simply isn’t in the knowledge base. Or the content exists but it’s in unusable or “garbage” form (e.g. parser messed up, very messy source). | - Use good document ingestion / parsing pipelines. <br>- Preprocess documents to ensure quality (clean up scanned PDFs, images, bad OCR, etc.). <br>- Ensure frequent updating of the knowledge base if sources change over time. <br>- Add good metadata so content is easier to find. |
